@@ -8,7 +8,7 @@ if ( ! isset($_GET['name']) || strlen($_GET['name']) < 1  ) {
 
 // If the user requested logout go back to index.php
 if ( isset($_POST['logout']) ) {
-    header('Location: index.php');
+    header('Location: index.html');
     return;
 }
 
