@@ -1,2 +1,0 @@
-# RPS
-Rock PaperScissor Game
